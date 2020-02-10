@@ -28,6 +28,8 @@ died yet !)
 
 Have fun messing around with the parameters and see how the accuracy changes !
 
+Once you run the model script it will save the model in some h5 file which you can import to a main python file and then run as you please . A sample main.py which takes inputs of numbers from a text file (we are attaching a test_input.txt in case you folks need one ! ) and creating two new output files each for one pardigm has been attached as well 
+
 The code is entirely in python the deep learning part has been done in tensorflow 2.0 
 
 Happy Coding !
